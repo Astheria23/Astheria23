@@ -13,7 +13,7 @@
 ---
 
 ### 🔥 **Latest Projects**
-<!-- Add your project screenshots/gifs here -->
+![Gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdiOHZzY2Vrdm13eDN6dmtmZjhmcnFmc2RvZHFnZG9jbHVoa2g3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2R0cvMrULqv6se4M/giphy.gif)
 <p align="center">
   <img src="https://via.placeholder.com/400x200.png?text=Project+1" width="30%">
   <img src="https://via.placeholder.com/400x200.png?text=Project+2" width="30%">
