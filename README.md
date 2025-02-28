@@ -1,8 +1,8 @@
 <h1 align="center">🎧 Octa Toriq</h1>
-<h3 align="center">~/Fullstack Developer/IoT Engineer/Robotics Enthusiast</h3>
+<h3 align="center">💻 Fullstack Developer | 🤖 IoT & Robotics Enthusiast | 🔥 Tech Explorer </h3>
 
 <p align="center">
-  <img src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif" width="400" alt="lofi-coding](https://i.makeagif.com/media/4-05-2022/FvBVst.gif)">
+  <img src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif" alt="lofi-coding]">
 </p>
 
 
