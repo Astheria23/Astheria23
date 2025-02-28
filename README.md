@@ -50,4 +50,4 @@ while(coffee.isHot()) {
  ```
 📫 Connect
 <p align="center"> <a href="https://linkedin.com/in/octa.toriq"> <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="mailto:your.email@example.com"> <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://instagram.com/sweet_explicit"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a> </p>
-<p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=31kpj7k3f2jq4fosd7qj6q3v3m6i&cover_image=true&theme=novatorem&bar_color=bc83ff&bar_color_cover=true"> </p><p align="center"> <i>🎵 Currently coding to: lofi hip hop radio - beats to relax/study to</i> </p>
+<p align="center"> <i>🎵 Currently coding to: lofi hip hop radio - beats to relax/study to</i> </p>
