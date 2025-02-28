@@ -11,16 +11,7 @@
 </p>
 
 ---
-
-### 🔥 **Latest Projects**
 ![Gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdiOHZzY2Vrdm13eDN6dmtmZjhmcnFmc2RvZHFnZG9jbHVoa2g3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2R0cvMrULqv6se4M/giphy.gif)
-<p align="center">
-  <img src="https://via.placeholder.com/400x200.png?text=Project+1" width="30%">
-  <img src="https://via.placeholder.com/400x200.png?text=Project+2" width="30%">
-  <img src="https://via.placeholder.com/400x200.png?text=Project+3" width="30%">
-</p>
-
----
 
 ### 🛠️ **Tech Stack**
 
@@ -35,7 +26,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 #### **IoT & Robotics**
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
@@ -45,11 +35,6 @@
 ---
 
 ### 📈 **GitHub Stats**
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=astheria23&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=astheria23&theme=radical" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=astheria23&theme=react-dark&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF">
