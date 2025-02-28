@@ -5,10 +5,6 @@
   <img src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif" alt="lofi-coding" width="600">
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Victor+Mono&size=24&duration=4000&pause=1000&color=BC83FF&center=true&vCenter=true&width=600&lines=print(%22Hello+World%22);await async_code();import+appwrite;define_IoT_solutions();while(learning){keep_coding};" alt="Typing SVG" />
-</p>
-
 ---
 
 ### **🚀 Tech Stack**
