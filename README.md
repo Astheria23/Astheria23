@@ -25,7 +25,6 @@
 ![C#](https://img.shields.io/badge/-C%23-%23239120?style=flat&logo=c-sharp&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=flat&logo=node.js&logoColor=white)
 ![Appwrite](https://img.shields.io/badge/-Appwrite-%23F02E65?style=flat&logo=appwrite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat&logo=mongodb)
 
 #### **〈〈 IoT & Hardware 〉〉**
 ![Arduino](https://img.shields.io/badge/-Arduino-%2300979D?style=flat&logo=arduino)
@@ -36,11 +35,6 @@
 ---
 
 ### 📊 **GitHub Stats**
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=astheria23&show_icons=true&theme=nightowl&hide_border=true&bg_color=1A1B27&title_color=BC83FF&icon_color=79D6B5&text_color=FFFFFF">
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=astheria23&theme=nightowl&hide_border=true&background=1A1B27&stroke=BC83FF&ring=79D6B5&fire=79D6B5&currStreakNum=FFFFFF">
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=astheria23&theme=react-dark&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF">
@@ -60,4 +54,4 @@ while coffee.is_hot():
         deploy.iot_solution(Blynk)
 ```
 📫 Connect
-<p align="center"> <a href="https://linkedin.com/in/octa.toriq"> <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="mailto:your.email@example.com"> <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://instagram.com/sweet_explicit"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a> </p><p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Victor+Mono&size=18&duration=3000&pause=1000&color=BC83FF&center=true&vCenter=true&width=600&lines=Open+for+IoT+Collaborations;Let's+Build+Something+Awesome;Fullstack+%7C+IoT+%7C+Cloud+Solutions;Python+%7C+C%23+%7C+Appwrite+Enthusiast" alt="Secondary Typing SVG" /> </p><p align="center"> <i>🎵 Currently coding to: lofi hip hop radio - beats to code/deploy/repeat</i> </p> 
+<p align="center"> <a href="https://linkedin.com/in/octa.toriq"> <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="mailto:your.email@example.com"> <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://instagram.com/sweet_explicit"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a> </p><p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Victor+Mono&size=18&duration=3000&pause=1000&color=BC83FF&center=true&vCenter=true&width=600&lines=Open+for+IoT+Collaborations;Let's+Build+Something+Awesome;Fullstack+%7C+IoT+%7C+Cloud+Solutions;Python+%7C+C%23+%7C+Appwrite" alt="Secondary Typing SVG" /> </p><p align="center"> <i>🎵 Currently coding to: lofi hip hop radio - beats to code/deploy/repeat</i> </p> 
