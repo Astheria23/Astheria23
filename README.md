@@ -2,7 +2,7 @@
 <h3 align="center">~/Fullstack Developer/IoT Engineer/Robotics Enthusiast</h3>
 
 <p align="center">
-  <img src="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2JnMm5ya3dna3h2MzV3cWc4aXM4N3AxazZvcjllbWh2dHU4djZ4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c9IdCLK8TDv1e/giphy.gif" width="400" alt="lofi-coding](https://i.makeagif.com/media/4-05-2022/FvBVst.gif)">
+  <img src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif" width="400" alt="lofi-coding](https://i.makeagif.com/media/4-05-2022/FvBVst.gif)">
 </p>
 
 
