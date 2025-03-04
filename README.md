@@ -27,7 +27,7 @@
 ![RaspberryPi](https://img.shields.io/badge/-RPi-%23C51A4A?style=flat&logo=raspberry-pi)
 ![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=flat&logo=linux)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=css,scss,html&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Astheria23&hide=css,scss,html&theme=tokyonight)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=astheria23&theme=react-dark&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF">
