@@ -29,7 +29,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Astheria23&hide=css,scss,c%23,html&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Astheria23&hide=css,scss,php,c%23,html&theme=tokyonight)
 
 
 ### 🎶 **Coding Atmosphere**
