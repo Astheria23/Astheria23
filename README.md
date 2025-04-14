@@ -1,5 +1,5 @@
 <h1 align="center">🎧 Welcome! </h1>
-<h3 align="center">💻 Fullstack Developer | 🤖 IoT & Robotics Enthusiast | 🔥 Tech Explorer</h3>
+<h3 align="center">💻 Web Dev | 🤖 IoT & Robotics Enthusiast | 🔥 Tech Explorer</h3>
 
 <p align="center">
   <img src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif" alt="lofi-coding" width="600">
