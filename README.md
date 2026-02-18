@@ -35,25 +35,6 @@ I am a technical professional with a solid foundation in **Mechatronics Engineer
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
----
-
-### 📊 GitHub Insights
-
-![](https://github-profile-trophy.vercel.app/?username=Astheria23&theme=tokyonight&no-bg=true&margin-w=15)
-
-<br/>
-
-![](https://github-readme-stats.vercel.app/api?username=Astheria23&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
-
-<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Astheria23&hide=php,css,html&theme=tokyonight&layout=compact&hide_border=true)
-
-<br/>
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=Astheria23&theme=tokyonight&hide_border=true)
-
----
 
 ### 📫 Connect with Me
 [LinkedIn](https://linkedin.com/in/octa.toriq) • [Email](mailto:your.email@example.com) • [Instagram](https://instagram.com/sweet_explicit)
