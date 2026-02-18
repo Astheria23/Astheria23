@@ -2,27 +2,27 @@
 
 **Undergraduate Informatics Engineering Student | Junior Programmer**
 
-I am a technical professional with a strong foundation in **Mechatronics Engineering**, currently specializing in **Informatics Engineering**. I bridge the gap between industrial hardware precision and modern software scalability.
+I am a technical professional with a solid foundation in **Mechatronics Engineering**, currently specializing in **Informatics**. I focus on bridging the gap between industrial hardware precision and scalable software solutions.
 
 ---
 
 ### 💼 Professional Experience
-* **PT. ALKINDO NARATAMA (Dept. Engineering)** – Contributed to industrial engineering projects, focusing on mechanical-electronic systems and technical maintenance.
-* **Bumaschool Internship Program** – Gained hands-on experience in technical workflows, industrial standards, and engineering documentation.
-* **Mechatronics Background** – Prior experience in mechatronics engineering, providing a unique low-level perspective on software-hardware integration.
+* **PT. ALKINDO NARATAMA (Dept. Engineering)** – Involved in industrial engineering operations, focusing on mechanical-electronic systems and technical maintenance.
+* **PT. BUMA International Group - Bumaschool Internship Program** – Gained hands-on experience in technical workflows and industrial engineering standards.
+* **Mechatronics Background** – Extensive experience in mechatronics, providing a unique low-level perspective on software-hardware integration.
 
 ---
 
-### 🚀 Active Projects
-* **Tamagonano** – A desktop companion robot powered by **ESP32-C3**, featuring an OLED-based UI and custom interactive logic.
-* **AerialCast** – Developing a long-range UAV telemetry system for real-time sensor data transmission.
-* **TrustPoint** – Architecting a reliable P2P package delivery system focusing on backend efficiency and data integrity.
+### 🚀 Featured Projects
+* **Tamagonano** – A smart desktop companion robot built with **ESP32-C3**, featuring an interactive OLED UI.
+* **AerialCast** – A long-range UAV telemetry system designed for real-time sensor data acquisition.
+* **TrustPoint** – Architecting a reliable P2P package delivery system focusing on backend efficiency.
 
 ---
 
 ### 🛠️ Technical Stack
 
-**Software & Backend**
+**Languages & Backend**
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -38,16 +38,26 @@ I am a technical professional with a strong foundation in **Mechatronics Enginee
 ---
 
 ### 📊 GitHub Insights
-<p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Astheria23&hide=php,css,html&theme=tokyonight&layout=compact" height="165" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Astheria23&show_icons=true&theme=tokyonight" height="165" />
-</p>
+
+![](https://github-profile-trophy.vercel.app/?username=Astheria23&theme=tokyonight&no-bg=true&margin-w=15)
+
+<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=Astheria23&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
+
+<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Astheria23&hide=php,css,html&theme=tokyonight&layout=compact&hide_border=true)
+
+<br/>
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Astheria23&theme=tokyonight&hide_border=true)
 
 ---
 
-### 📫 Let's Connect
+### 📫 Connect with Me
 [LinkedIn](https://linkedin.com/in/octa.toriq) • [Email](mailto:your.email@example.com) • [Instagram](https://instagram.com/sweet_explicit)
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=16&duration=3000&pause=1000&color=A970FF&width=450&lines=Bridging+Hardware+and+Software;Building+Scalable+IoT+Systems;Fullstack+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=16&duration=3000&pause=1000&color=A970FF&width=450&lines=Building+Reliable+IoT+Systems;Bridging+Hardware+and+Software;Fullstack+Development" alt="Typing SVG" />
 </p>
