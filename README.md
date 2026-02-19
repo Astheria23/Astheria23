@@ -15,9 +15,9 @@ I am a technical professional with a solid foundation in **Mechatronics Engineer
 
 ### 🚀 Featured Projects
 * **Tamagonano** – A smart desktop companion robot built with **ESP32-C3**, featuring an interactive OLED UI.
-* **AerialCast** – A long-range UAV telemetry system designed for real-time sensor data acquisition.
+* **AerialCast** – A long-range UAV telemetry system designed for real-time sensor data acquisition (LoRa and IoT Based Telemetry).
 * **TrustPoint** – Architecting a reliable P2P package delivery system focusing on backend efficiency.
-
+  
 ---
 
 ### 🛠️ Technical Stack
