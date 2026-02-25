@@ -9,6 +9,7 @@ I am a technical professional with a solid foundation in **Mechatronics Engineer
 ### 💼 Professional Experience
 * **PT. ALKINDO NARATAMA (Dept. Engineering)** – Involved in industrial engineering operations, focusing on mechanical-electronic systems and technical maintenance.
 * **PT. BUMA International Group - Bumaschool Internship Program** – Gained hands-on experience in technical workflows and industrial engineering standards.
+* **Informatics Research Center - ULBI** -  Contribute in IoT and Robotics systems as Head of IRIS (IoT and Robotics Inteligent Systems) Lab.
 * **Mechatronics Background** – Extensive experience in mechatronics, providing a unique low-level perspective on software-hardware integration.
 
 ---
