@@ -2,7 +2,7 @@
 
 **Undergraduate Informatics Engineering Student**
 
-I am a technical professional with a solid foundation in **Mechatronics Engineering**, currently specializing in **Informatics Engineering**. I focus on bridging the gap between industrial hardware precision and scalable software solutions.
+I am a technical professional with a solid foundation in **Mechatronics Engineering**, currently specializing in **Informatics Engineering** in University of Logistics and International Business Bandung. I focus on bridging the gap between industrial hardware and scalable software solutions.
 
 ---
 
